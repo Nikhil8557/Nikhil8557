@@ -32,7 +32,7 @@
 <a href="https://dev.to/astro_nikhil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="astro_nikhil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nikhil-kumar-3197641b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-kumar-3197641b7" height="30" width="40" /></a>
 <a href="https://instagram.com/astro_nikhil?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/astro_nikhil?utm_medium=copy_link" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/ucxd91xoakqgjcfyqumbyzig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucxd91xoakqgjcfyqumbyzig" height="30" width="40" /></a>
+<a href="https://youtube.com/c/ucxd91xoakqgjcfyqumbyzig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/ucxd91xoakqgjcfyqumbyzig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
