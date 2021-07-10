@@ -53,10 +53,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Nikhil8557/github-readme-activity-graph"><img alt="Nikhil kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nikhil8557/github-readme-activity-graph"><img alt="Nikhil kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nikhil8557&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil8557&show_icons=true&locale=en" alt="nikhil8557" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil8557&" alt="nikhil8557" /></p>
