@@ -53,10 +53,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Nikhil8557/github-readme-activity-graph"><img alt="Nikhil kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nikhil8557&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![people-3214687_1280](https://github.com/Nikhil8557/Nikhil8557/assets/71388692/a1c2d765-d897-450e-ada2-3fcd0f9f999b)
 
-<br/>
-<br/>
 
 
 
