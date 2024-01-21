@@ -30,8 +30,8 @@
                         box-sizing: border-box;
                         background-color: #000000;
                         border-radius: 15px;
-                        box-shadow: 0px 0px 6px 3px rgba(229, 184, 11, 1);
-                        border: 1px solid #E5B80B;
+                        box-shadow: 0px 0px 6px 3px rgba(153,140,141,255);
+                        border: 1px solid ##998c8d;
                         height: 65px;
                         width: calc(90%);
                         display: flex;
