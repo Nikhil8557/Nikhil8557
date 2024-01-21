@@ -1,4 +1,4 @@
-<p align="center">#Let the WAVE wash your transient feet 🌊</p>
+#Let the WAVE wash your transient feet 🌊
 
 
 <a href="#"><img width="100%" height="auto" src="https://cloud-qff8vx2e4-hack-club-bot.vercel.app/0tumblr_e9bfa274567551e77b34fb3157cffdbc_c300ac4c_540.gif.webp" height="175px"/></a>
