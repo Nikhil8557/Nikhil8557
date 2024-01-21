@@ -28,10 +28,10 @@
 
                     .box {
                         box-sizing: border-box;
-                        background-color: #2c093a;
+                        background-color: #0d1117;
                         border-radius: 15px;
-                        box-shadow: 0px 0px 6px 3px rgba(122, 8, 78, 1);
-                        border: 1px solid #e0288d;
+                        box-shadow: 0px 0px 6px 3px rgba(153,140,141,255);
+                        border: 1px solid #998c8d;
                         height: 65px;
                         width: calc(90%);
                         display: flex;
