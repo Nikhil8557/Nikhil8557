@@ -12,7 +12,7 @@ I am the leader of a [Hack Club](https://hackclub.com) of over 500 members. I en
 I absolutely love researching and knowing new things - as well as hacking on weird stuff and random ideas I get. I'm good at seamlessly collaborating with teams and people to build awesome things, manage projects and productive teams. Ask me anything, I'm always glad to help you out! Always up for a coffee chat, collaboration, open-source and much more. Catch me at my twitter, socials or drop me an email and don't hesitate to reach out to me directly.
 
 <a href="#"><img width="100%" height="auto" src="https://cloud-c80rkkiyz-hack-club-bot.vercel.app/0870e2b603561af91cd073ab6d2679ff8.gif" height="175px"/></a>
-[!BADGE]
-<p align="center">
+
+> [!IMPORTANT]<p align="center">
   <img alt="An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/nikhilpixel" />
 </p>
