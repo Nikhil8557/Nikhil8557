@@ -31,7 +31,7 @@
                         background-color: #000000;
                         border-radius: 15px;
                         box-shadow: 0px 0px 6px 3px rgba(122, 8, 78, 1);
-                        border: 1px solid #e0288d;
+                        border: 1px solid #E5B80B;
                         height: 65px;
                         width: calc(90%);
                         display: flex;
