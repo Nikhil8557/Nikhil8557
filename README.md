@@ -14,8 +14,6 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 
 <a href="#"><img width="100%" height="auto" src="https://cloud-c80rkkiyz-hack-club-bot.vercel.app/0870e2b603561af91cd073ab6d2679ff8.gif" height="175px"/></a>
 
-<a href="#"><img width="100%" height="auto" src="https://cloud-c80rkkiyz-hack-club-bot.vercel.app/0870e2b603561af91cd073ab6d2679ff8.gif" height="175px"/></a>
-
 > [!IMPORTANT]<p align="center">
   <img alt="An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/nikhilpixel" />
 </p>
