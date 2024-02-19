@@ -14,6 +14,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 
 <a href="#"><img width="100%" height="auto" src="https://cloud-c80rkkiyz-hack-club-bot.vercel.app/0870e2b603561af91cd073ab6d2679ff8.gif" height="175px"/></a>
 
-> [!IMPORTANT]<p align="center">
-  <img alt="An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/nikhilpixel" />
-</p>
+  <div 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Snake" width="100%"/>
+  </div>
