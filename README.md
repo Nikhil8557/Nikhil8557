@@ -1,7 +1,8 @@
 # Let the WAVE wash your transient feet 🌊
 
 
-<a href="#"><img width="100%" height="auto" src="https://github.com/user-attachments/assets/b7893d27-daff-4840-93af-e0f8270d3c13" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" 
+              src="https://github.com/user-attachments/assets/b7893d27-daff-4840-93af-e0f8270d3c13" height="175px"/></a>
 
 ***<p align="center"> My name is Nikhil and I am a student, hacker & developer from India.</p>***
 
