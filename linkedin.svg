@@ -31,7 +31,7 @@
                         background-color: #0d1117;
                         border-radius: 15px;
                         box-shadow: 0px 0px 6px 3px rgba(153,140,141,255);
-                        border: 1px solid #998c8d;
+                        border: 1px solid #a6cbf6;
                         height: 65px;
                         width: calc(90%);
                         display: flex;
@@ -53,7 +53,7 @@
                         margin: 0 10% 0 0;
                         padding: 0;
                         display: none;
-                        color: #ffc6ac;
+                        color: #a6cbf6;
                         line-height: 65px;
                         font-size: 1em;
                         flex-grow: 1;
