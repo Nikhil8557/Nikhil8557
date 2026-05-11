@@ -1,8 +1,8 @@
 # Let the WAVE wash your transient feet 🌊
 
 
-<a href="#"><img width="100%" height="auto" 
-              src="https://github.com/user-attachments/assets/b7893d27-daff-4840-93af-e0f8270d3c13" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" width="700" height="525" alt="beautiful-travel-destinations-03" src="https://github.com/user-attachments/assets/49a2386b-2b88-4f74-a138-43dbc63b0d98"
+              src="" height="175px"/></a>
 
 ***<p align="center"> My name is Nikhil and I am a student, hacker & developer from India.</p>***
 
@@ -19,3 +19,4 @@ I absolutely love researching and knowing new things - as well as hacking on wei
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/ocean.svg" alt="GitHub Snake" width="100%"/>
   </div>
+
